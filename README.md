@@ -7,13 +7,13 @@ This is a test project created as part of Coursera Course: ["Build Your First An
 The application was designed to use multiple "Basic Building Blocks" used in Android applications.
 
 ## Development Status
-- ~~Ideation~~
-- ~~Wireframe creation~~
-- Mockups
-- Design
-- Coding Drop1
-- Coding Drop2
-- Live Version
+- [x] Ideation
+- [x] Wireframe creation
+- [] Mockups
+- [] Design
+- [] Coding MVS
+- [] Coding Beta
+- [] Live Version
 
 ## How it works
 The systems relies on a database of commonly used corporate terms/jargons. As these terms flash around on the screen, the used get to randomly pick a combination of the jargons, hopefully generating a unique/never used before combination.
