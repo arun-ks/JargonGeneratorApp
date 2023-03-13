@@ -13,7 +13,7 @@ The application was designed to use multiple "Basic Building Blocks" used in And
 - [ ] Design
 - [ ] Coding MVS
 - [ ] Coding Beta
-- [  Live Version
+- [ ] Live Version
 
 ## How it works
 The systems relies on a database of commonly used corporate terms/jargons. As these terms flash around on the screen, the used get to randomly pick a combination of the jargons, hopefully generating a unique/never used before combination.
